@@ -1,0 +1,45 @@
+/*======Global CSS For All Template======*/
+
+/*======a=======*/
+/*======b=======*/
+.bg-norepeat{
+	background-repeat:no-repeat;
+}
+.bg-size-cover{
+	background-size:cover;
+}
+.bg-position-center{
+	background-position:center;
+}
+.bg-attachment-fixed{
+	background-attachment:fixed;
+}
+
+/*======c=======*/
+
+section{
+	padding-top:100px;
+	padding-bottom:75px;
+}
+
+.bg-transparent-white{
+	background-color:#ffffff5c;
+}
+.bg-transparent-dark{
+	background-color:#00000045;
+}
+.top-auto{
+	top:auto;
+}
+.left-auto{
+	left:auto;
+}
+.card-hover-visible{
+	visibility:hidden;
+}
+.card:hover .card-hover-visible{
+	visibility:visible;
+}
+.bg-transparent-noimportant{
+	background-color: transparent;
+}

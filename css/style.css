@@ -1,0 +1,36 @@
+/*======Theme CSS ======*/
+
+#main-nav ul>li>a.active{
+	background-color:black;
+}
+#home{
+	background-image:url(../images/b1.jpg);
+}
+#service{
+	background-image:url(../images/b2.jpg);
+}
+#review{
+	background-image:url(../images/b3.jpg);
+}
+#contact{
+	background-image:url(../images/b4.jpg);
+}
+#social-link ul>li{
+	margin-right:12px;
+}
+#social-link ul>li>a{
+	height:2.5rem;
+	width:2.5rem;
+}
+#upper{
+	display:none;
+}
+
+@media (max-width: 576px){
+	.h5-sm{
+		font-size:1.25rem;
+	}
+	.h6-sm{
+		font-size:1rem;
+	}
+}
